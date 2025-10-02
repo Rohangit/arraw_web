@@ -105,7 +105,7 @@ export const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-          <p>&copy; {currentYear} Arrow Cabs. All rights reserved.</p>
+          <p>&copy; {currentYear} Arrow Cabs. All rights reserved. Developed by <a className="text-fuchsia-300" href="">Econnexsl PVT LTD</a></p>
         </div>
       </div>
     </footer>;
