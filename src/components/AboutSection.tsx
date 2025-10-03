@@ -15,7 +15,7 @@ export const AboutSection = () => {
           </div>
           <div>
             <h3 className="text-2xl font-semibold text-gray-800 mb-4">
-              Your Trusted Transportation Partner Since 2018
+              Your Trusted Transportation Partner Since 2012
             </h3>
             <p className="text-gray-600 mb-6">
               Arrow Cabs has been providing exceptional transportation services
@@ -27,7 +27,7 @@ export const AboutSection = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="flex flex-col items-center text-center p-4 bg-gray-50 rounded-lg">
                 <Award size={32} className="text-secondary mb-2" />
-                <h4 className="font-semibold text-gray-800">5+ Years</h4>
+                <h4 className="font-semibold text-gray-800">13+ Years</h4>
                 <p className="text-sm text-gray-600">Experience</p>
               </div>
               <div className="flex flex-col items-center text-center p-4 bg-gray-50 rounded-lg">
